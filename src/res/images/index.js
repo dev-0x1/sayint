@@ -1,0 +1,6 @@
+export const comments = require('./question-answer.png')
+export const search = require('./search.png')
+export const gear = require('./settings.png')
+export const favorite = require('./favorite-border.png')
+export const arrowDown = require('./keyboard-arrow-down.png')
+export const arrowUp = require('./keyboard-arrow-up.png')
